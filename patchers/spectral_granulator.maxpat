@@ -42,6 +42,20 @@
 					"bgcolor" : [ 0.988235294117647, 0.988235294117647, 0.988235294117647, 1.0 ],
 					"bubble" : 1,
 					"bubbleusescolors" : 1,
+					"id" : "obj-8",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 443.500000834465027, 64.666666984558105, 114.0, 22.0 ],
+					"text" : "hit the space bar"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"bgcolor" : [ 0.988235294117647, 0.988235294117647, 0.988235294117647, 1.0 ],
+					"bubble" : 1,
+					"bubbleusescolors" : 1,
 					"id" : "obj-32",
 					"maxclass" : "comment",
 					"numinlets" : 1,
@@ -62,7 +76,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 13.000017821788788, 791.666684985160828, 100.0, 22.0 ],
-					"presentation_linecount" : 2,
 					"text" : "original sound"
 				}
 
